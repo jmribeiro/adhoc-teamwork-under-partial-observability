@@ -1,0 +1,13 @@
+numpy
+tqdm
+matplotlib
+gym==0.21.0
+pygame
+ipython
+ipywidgets
+opencv-python
+pandas
+pyyaml
+scipy
+python-dateutil
+networkx

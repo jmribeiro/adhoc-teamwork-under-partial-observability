@@ -1,0 +1,8 @@
+Setup Time: 5066.004548788071
+beliefs: 5000
+environment: pursuit-task
+horizon: 75
+maxmodels: 4
+models: 4
+noise: 0.2
+tolerance: 0.01

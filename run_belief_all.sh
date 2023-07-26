@@ -1,0 +1,10 @@
+python run_beliefs_analysis.py gridworld > log_beliefgridworld.txt &
+python run_beliefs_analysis.py ntu > log_beliefntu.txt &
+python run_beliefs_analysis.py pursuit-task > log_beliefpursuit_task.txt &
+python run_beliefs_analysis.py pursuit-teammate > log_beliefpursuit_teammate.txt &
+python run_beliefs_analysis.py pursuit-both > log_beliefpursuit_both.txt &
+python run_beliefs_analysis.py overcooked > log_beliefovercooked.txt &
+python run_beliefs_analysis.py isr > log_beliefisr.txt &
+python run_beliefs_analysis.py mit > log_beliefmit.txt &
+python run_beliefs_analysis.py pentagon > log_beliefpentagon.txt &
+python run_beliefs_analysis.py cit > log_beliefcit.txt &

@@ -1,0 +1,7 @@
+beliefs: 5000
+environment: debugworld
+horizon: 50
+maxlib: 8
+models: 4
+noise: 0.05
+tolerance: 0.01

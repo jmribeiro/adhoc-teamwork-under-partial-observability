@@ -1,0 +1,8 @@
+Setup Time: 17909.034117221832
+beliefs: 5000
+environment: pursuit-both
+horizon: 85
+maxmodels: 8
+models: 8
+noise: 0.15
+tolerance: 0.01

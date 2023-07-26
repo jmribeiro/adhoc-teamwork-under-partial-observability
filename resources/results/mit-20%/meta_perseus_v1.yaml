@@ -1,0 +1,9 @@
+Setup Time: 10114.904748678207
+adhoclibrarysize: 3
+beliefs: 5000
+environment: mit
+horizon: 75
+maxmodels: 3
+models: 3
+noise: 0.2
+tolerance: 0.01

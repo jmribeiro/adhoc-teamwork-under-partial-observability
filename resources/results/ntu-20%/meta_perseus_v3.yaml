@@ -1,0 +1,9 @@
+Setup Time: 705.84237241745
+adhoclibrarysize: 4
+beliefs: 5000
+environment: ntu
+horizon: 75
+maxmodels: 6
+models: 4
+noise: 0.2
+tolerance: 0.01

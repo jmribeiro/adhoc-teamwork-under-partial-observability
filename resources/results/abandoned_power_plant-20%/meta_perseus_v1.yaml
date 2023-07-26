@@ -1,0 +1,9 @@
+Setup Time: 62.9233980178833
+adhoclibrarysize: 2
+beliefs: 2500
+environment: abandoned_power_plant
+horizon: 50
+maxmodels: 2
+models: 2
+noise: 0.2
+tolerance: 0.01

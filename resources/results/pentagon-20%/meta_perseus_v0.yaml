@@ -1,0 +1,9 @@
+Setup Time: 25417.532017946243
+adhoclibrarysize: 3
+beliefs: 5000
+environment: pentagon
+horizon: 75
+maxmodels: 3
+models: 3
+noise: 0.2
+tolerance: 0.01

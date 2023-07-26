@@ -1,0 +1,8 @@
+Setup Time: 406.2198131084442
+beliefs: 1800
+environment: overcooked
+horizon: 50
+maxlib: 4
+models: 4
+noise: 0.0
+tolerance: 0.01

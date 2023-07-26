@@ -1,0 +1,8 @@
+Setup Time: 50486.346887111664
+beliefs: 8000
+environment: cit
+horizon: 75
+maxmodels: 3
+models: 3
+noise: 0.1
+tolerance: 0.01

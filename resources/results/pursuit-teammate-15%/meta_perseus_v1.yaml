@@ -1,0 +1,8 @@
+Setup Time: 9969.382933139801
+beliefs: 5000
+environment: pursuit-teammate
+horizon: 85
+maxmodels: 2
+models: 2
+noise: 0.15
+tolerance: 0.01

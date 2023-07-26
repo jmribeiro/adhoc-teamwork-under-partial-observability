@@ -1,0 +1,8 @@
+Setup Time: 2520.405156850815
+beliefs: 5000
+environment: gridworld
+horizon: 50
+maxmodels: 32
+models: 4
+noise: 0.2
+tolerance: 0.01

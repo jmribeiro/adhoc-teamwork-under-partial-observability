@@ -1,0 +1,12 @@
+Environment,Avg. Setup Time,Avg. Solve Time
+abandoned_power_plant,0h 00m 01s 0.41ms(±0h 00m 00s 0.14ms),0h 00m 43s 0.32ms(±0h 00m 19s 0.6ms)
+cit,0h 51m 45s 0.36ms(±0h 00m 58s 0.27ms),11h 53m 30s 0.0ms(±5h 06m 50s 0.99ms)
+gridworld,0h 00m 27s 0.41ms(±0h 00m 00s 0.67ms),0h 41m 02s 0.93ms(±0h 41m 10s 0.86ms)
+isr,0h 08m 22s 0.77ms(±0h 00m 19s 0.99ms),6h 02m 58s 0.98ms(±1h 15m 47s 0.68ms)
+mit,0h 11m 41s 0.29ms(±0h 00m 52s 0.98ms),5h 43m 18s 0.89ms(±4h 20m 11s 0.88ms)
+ntu,0h 00m 14s 0.0ms(±0h 00m 00s 0.5ms),0h 10m 05s 0.25ms(±0h 01m 24s 0.15ms)
+overcooked,0h 04m 00s 0.96ms(±0h 00m 19s 0.41ms),0h 05m 22s 0.54ms(±0h 01m 16s 0.88ms)
+pentagon,0h 16m 14s 0.61ms(±0h 00m 13s 0.11ms),4h 55m 49s 0.66ms(±1h 31m 04s 0.99ms)
+pursuit-both,0h 03m 31s 0.37ms(±0h 00m 03s 0.09ms),3h 03m 02s 0.6ms(±1h 16m 14s 0.35ms)
+pursuit-task,0h 03m 38s 0.02ms(±0h 00m 02s 0.32ms),2h 30m 54s 0.82ms(±1h 03m 45s 0.6ms)
+pursuit-teammate,0h 03m 21s 0.24ms(±0h 00m 00s 0.11ms),2h 31m 23s 0.53ms(±0h 14m 45s 0.86ms)
